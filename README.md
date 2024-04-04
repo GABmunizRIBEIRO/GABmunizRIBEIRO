@@ -1,10 +1,11 @@
 ## Oiee 👋
 Me chamo Gabriel Muniz, sou estudante de Ciências Econômicas na USP de Ribeirão Preto e analista de dados pelo LEPES/USP. Atualmente trabalho com analise, padronização e acompanhamento de dados, desenvolvimento de plataformas para inserção de dados com uso de HTML, CSS, Java Script. Criação de APIs em Python/django, manipulação de Banco de Dados SQL (Postgresql e MySQL) e No-SQL (MongoDB); além de manipulação e controle de armazenamento na AWS (S3 e RDS)
 
-<div>
+<!-- <div>
   <a href="https://beacons.ai/GABmunizRIBEIRO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABmunizRIBEIRO&layout=compact"/>
 </div>
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>         
