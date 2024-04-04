@@ -1,5 +1,4 @@
 name: generate animation
-
 on:
   schedule:
     # every 6 hours
