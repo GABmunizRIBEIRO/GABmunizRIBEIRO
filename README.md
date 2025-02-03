@@ -1,5 +1,5 @@
 ## Olá 👋
-#### Me chamo Gabriel Muniz, sou estudante de Ciências Econômicas na USP de Ribeirão Preto e analista de dados pelo LEPES/USP. Atualmente trabalho com analise, padronização e acompanhamento de dados, criação de dashboards, desenvolvimento de plataformas para inserção de dados com uso de HTML, CSS, Java Script. Criação de APIs em Python/Django, manipulação de Banco de Dados SQL (Postgresql e MySQL) e No-SQL (MongoDB); além de manipulação e controle de armazenamento na AWS (S3 e RDS)
+#### Me chamo Gabriel Muniz, sou economista pela FEA USP de Ribeirão Preto e trabalho atualmente como assessor de investimentos pela Saturnus Investimentos XP. Ao lonog da minha jornada trabalhei como analista de dados pelo LEPES/USP fazendo analise, padronização e acompanhamento de dados, criação de dashboards, desenvolvimento de plataformas para inserção de dados com uso de HTML, CSS, Java Script. Criação de APIs em Python/Django, manipulação de Banco de Dados SQL (Postgresql e MySQL) e No-SQL (MongoDB); além de manipulação e controle de armazenamento na AWS (S3 e RDS)
 
  <div>
   <a href="https://beacons.ai/GABmunizRIBEIRO">
